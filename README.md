@@ -25,7 +25,8 @@
 <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75" style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nodejs.org" rel="nofollow"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="nodejs" width="75" height="75" style="max-width: 100%;"> </a> &nbsp;&nbsp;&nbsp;
     <a href="https://expressjs.com/" rel="nofollow"> <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express" width="75" height="75" style="max-width: 100%;"></a> &nbsp;&nbsp;</a>
-  <a href="https://www.npmjs.com/" rel="nofollow"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-2-logo.png" alt="npm" width="95" height="75"style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://www.npmjs.com/" rel="nofollow"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-2-logo.png" alt="npm" width="95" height="75"style="max-width: 100%;"></a> &nbsp;&nbsp; 
+   <a href="https://getbootstrap.com/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="85" height="75"style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;&nbsp; 
   </a></p>
 
 
@@ -36,6 +37,7 @@
   <a href="https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-cobol" rel="nofollow"> <img src="https://miro.medium.com/max/800/1*4KEYbVW7F7TuagCSmRXOtQ.jpeg" alt="react" width="75" height="75" style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.ibm.com/docs/en/zos-basic-skills?topic=collection-basic-jcl-concepts" rel="nofollow"> <img src="https://1.bp.blogspot.com/-0vKxPNryEio/XUgOg_nGVgI/AAAAAAAAD2E/dNsZXA8EdVck0pF6tBTl_tB4noB7l_kagCPcBGAYYCw/s1600/JCL%2Blogo.png" alt="jcl" width="75" height="75" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </a></p> 
+
 
  ##  <p>· Databases</p> 
   
