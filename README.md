@@ -5,7 +5,7 @@
 - 🎓 I have a Bachelor's Degree on IT
 - 👀 Looking for new challenges to face in the Web Programming world
 - 🌱 Currently learning MERN Full-Stack Development
-- ♥️ Passionate about *coding*, *games* 🎮 and *weightlifting* 🏋️‍♂️
+- ♥️ Passionate about *coding*, *gaming* 🎮 and *weightlifting* 🏋️‍♂️
 - 📫 How to reach me ...
 
 
