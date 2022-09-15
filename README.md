@@ -1,6 +1,6 @@
 # Hi there! 👋 I’m Julieta Gallego
 
-- 🏠 I'm from Argentina and I am 29
+- 🏠 I'm from Argentina and I am 30
 - 👩🏻‍💻 I have been working as a **Developer** for the last 8 years
 - 🎓 I have a Bachelor's Degree on IT
 - 👀 Looking to challenge myself every day whilst continue growing as a developer
