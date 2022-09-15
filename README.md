@@ -4,7 +4,7 @@
 - 👩🏻‍💻 I have been working as a **Developer** for the last 8 years
 - 🎓 I have a Bachelor's Degree on IT
 - 👀 Looking to challenge myself every day whilst continue growing as a developer
-- 🌱 Currently working and learning about NextJS, TypeScript, and Redux
+- 🌱 Currently working as a React Front-End developer, also learning about NextJS, TypeScript, and Redux
 - ♥️ Passionate about *coding*, *gaming* 🎮 and *weightlifting* 🏋️‍♂️
 - 📫 How to reach me ...
 
