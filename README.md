@@ -27,6 +27,7 @@
   <a href="https://nextjs.org/" rel="nofollow"> <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="nextjs" width="55" height="55" style="max-width: 100%;"></a> &nbsp;</a>
   <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65" style="max-width: 100%;"></a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65" style="max-width: 100%;"></a>
+<a href="https://sass-lang.com/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="sass" width="65" height="50" style="max-width: 100%;"></a>
     </p>
 
 
