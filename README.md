@@ -1,10 +1,10 @@
 # Hi there! 👋 I’m Julieta Gallego
 
-- 🏠 I'm from Argentina and I am 30
-- 👩🏻‍💻 I have been working as a **Developer** for the last 8 years
-- 🎓 I have a Bachelor's Degree on IT
-- 👀 Looking to challenge myself every day whilst continue growing as a developer
-- 🌱 Currently working as a React Front-End developer, also learning about NextJS, TypeScript, and Redux
+- 🏠 I'm from Argentina and I am 31
+- 👩🏻‍💻 I have been working as a **Developer** for the last 9 years
+- 🎓 I have a Bachelor's Degree in IT
+- 👀 Looking to challenge myself every day whilst growing as a developer
+- 🌱 Currently working as a React Front-End developer, including technologies such as NextJS, TypeScript, and Redux
 - ♥️ Passionate about *coding*, *gaming* 🎮 and *weightlifting* 🏋️‍♂️
 - 📫 How to reach me ...
 
